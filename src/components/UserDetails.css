@@ -1,0 +1,25 @@
+.user-details-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.margin-container {
+  margin: 10px;
+}
+
+.input-container {
+  margin-left: 8px;
+}
+
+.button-container {
+  padding: 5px;
+  width: 100px;
+  color: black;
+  font-weight: bold;
+}
+
+.label-text {
+  color: white;
+}
